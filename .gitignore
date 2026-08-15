@@ -1,0 +1,17 @@
+# Raw Kaggle data
+data/raw/
+*.zip
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,11 @@
+name: ecommerce_env
+channels:
+  - defaults
+dependencies:
+  - scikit-learn
+  - pandas
+  - seaborn
+  - matplotlib
+  - ipykernel
+  - numpy
+prefix: C:\Users\annav\miniconda3\envs\ecommerce_env
