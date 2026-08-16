@@ -1,5 +1,6 @@
 # Raw Kaggle data
 data/raw/
+data/processed/
 *.zip
 
 # Jupyter
