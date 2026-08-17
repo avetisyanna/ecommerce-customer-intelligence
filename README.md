@@ -1,14 +1,26 @@
 # E-Commerce Customer Intelligence
 
-End-to-end analytics project using **2020–2026 e-commerce data** to explore customer behavior, revenue, retention, and product performance.
+An end-to-end project focused on understanding customer behavior, revenue, retention, and customer value.
 
-## Tech Stack
+The goal is to turn raw e-commerce data into useful business insights and customer segments.
 
-Python, pandas, SQL, PostgreSQL, Scikit-learn, Tableau
+## Includes
 
-## Workflow
+- Data cleaning
+- SQL analysis
+- EDA
+- RFM segmentation
+- Cohort retention
+- K-Means clustering
+- Dashboard
 
-Data Cleaning → SQL Analysis → EDA → Customer Segmentation → Retention Analysis → Dashboard
+## Tools
+
+Python, Pandas, SQL, PostgreSQL, Docker, Plotly, Scikit-learn
+
+## Outcome
+
+The project combines analytics, customer segmentation, and machine learning to support better marketing and retention decisions.
 
 ## Status
 
